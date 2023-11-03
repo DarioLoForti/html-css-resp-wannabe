@@ -129,13 +129,13 @@ img {
  ************************************************/
  
 
- @media screen and (max-width: 1139px){
+ @media screen and (max-width: 768px){
     .container{
-        max-width: 768px;
+        max-width: 481px;
     }
  }
 
- @media screen and (max-width: 767px){
+ @media screen and (max-width: 480px){
     .container{
         max-width: 100%;   
     }
@@ -179,6 +179,6 @@ img {
 
     .why-us li{
         margin-bottom: 0;
-        padding: 20px 0;
+        padding: 20px;
     }
  }
